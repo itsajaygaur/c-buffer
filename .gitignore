@@ -1,0 +1,15 @@
+Q1-Q7-hrms-response-serializer/frontend/node_modules
+Q1-Q7-hrms-response-serializer/frontend/dist
+Q1-Q7-hrms-response-serializer/frontend/.env
+Q1-Q7-hrms-response-serializer/backend/node_modules
+Q1-Q7-hrms-response-serializer/backend/dist
+Q1-Q7-hrms-response-serializer/backend/.env
+
+Q2-pagination-api/node_modules
+Q2-pagination-api/.env
+
+Q3-cluster-with-worker-thread/node_modules
+Q3-cluster-with-worker-thread/.env
+
+Q4-socket-with-cron/node_modules
+Q4-socket-with-cron/.env
